@@ -41,4 +41,5 @@ control systems, e.g. Clear Case, commands are different, although concepts rema
 •	In this class, we prefer relying on a commonly used standard or a tradition. Brian Kernighan 
 starts his classic 1978 book titled "C - Programming Language" with a tutorial - how to printf "Hello World".  Here we are a half a century later. See below the screenshot from GitHub tutorial, estimated as a 10 minutes read.
 
+Thank you for completing your assignment !
 
